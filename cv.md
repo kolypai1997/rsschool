@@ -4,7 +4,7 @@
     * Discord: Vakhanasliya(@kolypai1997)
     * Email: kolypai1997@yandex.ru
 ## 3. About me  
-The purpose of admission to the courses is to improve skills and gain new knowledge. The strong side is perseverance. There is no front-end experience. I am studying to change my field of activity.
+    The purpose of admission to the courses is to improve skills and gain new knowledge. The strong side is perseverance. There is no front-end experience. I am studying to change my field of activity.
 ## 4. Skills  
     Html, CSS, Git, JavaScript
 ## 5. Code Examples
@@ -23,6 +23,5 @@ The purpose of admission to the courses is to improve skills and gain new knowle
 ## 6. Work experience.  
     I used only html and css for layout [Example.](https://github.com/kolypai1997/FirstWeb/tree/master/project2)
 ## 7. Education  
-    Izhevsk State Technical University named after M.T. Kalashnikov, Izhevsk. 
-Faculty of Computer Science and Computer Engineering, Computer Science and Computer Engineering (Master of Engineering and Technology)
+    Izhevsk State Technical University named after M.T. Kalashnikov, Izhevsk. Faculty of Computer Science and Computer Engineering, Computer Science and Computer Engineering (Master of Engineering and Technology)
 ## 8. English language proficiency level Elementary.
