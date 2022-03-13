@@ -5,7 +5,7 @@
     * Email: kolypai1997@yandex.ru
 3. About me  
 The purpose of admission to the courses is to improve skills and gain new knowledge. The strong side is perseverance. There is no front-end experience. I am studying to change my field of activity.
-4. Skills
+4. Skills  
     Html, CSS, Git, JavaScript
 5. Code Examples
     ```
@@ -20,6 +20,7 @@ The purpose of admission to the courses is to improve skills and gain new knowle
         return newTest.trimEnd();
     }
     ```
-6. Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+6. Work experience.  
+    I used only html and css for layout [Example.](https://github.com/kolypai1997/FirstWeb/tree/master/project2)
 7. Образование (включая пройденные курсы и тренинги)
 8. Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
