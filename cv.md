@@ -8,7 +8,7 @@
 ## 4. Skills  
     Html, CSS, Git, JavaScript
 ## 5. Code Examples
-    ```
+    ```javascript
     function alphabetPosition(text) {
         let newTest="";
         text=text.toLowerCase();
