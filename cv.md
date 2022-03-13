@@ -21,7 +21,7 @@
     }
 ```
 ## 6. Work experience.  
-    I used only html and css for layout [Example.](https://github.com/kolypai1997/FirstWeb/tree/master/project2)
+  I used only html and css for layout [Example.](https://github.com/kolypai1997/FirstWeb/tree/master/project2)
 ## 7. Education  
     Izhevsk State Technical University named after M.T. Kalashnikov, Izhevsk. Faculty of Computer Science and Computer Engineering, Computer Science and Computer Engineering (Master of Engineering and Technology)
 ## 8. English language proficiency level Elementary.
