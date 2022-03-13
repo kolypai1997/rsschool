@@ -3,8 +3,8 @@
 2. Contact
     * Discord: Vakhanasliya(@kolypai1997)
     * Email: kolypai1997@yandex.ru
-3. About me 
-    The purpose of admission to the courses is to improve skills and gain new knowledge. The strong side is perseverance. There is no front-end experience. I am studying to change my field of activity.
+3. About me  
+The purpose of admission to the courses is to improve skills and gain new knowledge. The strong side is perseverance. There is no front-end experience. I am studying to change my field of activity.
 4. Skills
     Html, CSS, Git, JavaScript
 5. Code Examples
